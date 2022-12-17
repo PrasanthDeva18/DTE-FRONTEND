@@ -1,0 +1,95 @@
+.conns {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 31.25rem;
+    margin: 3rem auto;
+}
+
+.label {
+    font-size: .625rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: +1.3px;
+    margin-bottom: 1rem;
+}
+
+.searchBar {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#searchQueryInput {
+    width: 100%;
+    height: 2.8rem;
+    background: #f5f5f5;
+    outline: none;
+    border: none;
+    border-radius: 1.625rem;
+    padding: 0 3.5rem 0 1.5rem;
+    font-size: 1rem;
+}
+
+#searchQuerySubmit {
+    width: 3.5rem;
+    height: 2.8rem;
+    margin-left: -3.5rem;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+#searchQuerySubmit:hover {
+    cursor: pointer;
+}
+
+.impsearch {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    flex-wrap: wrap;
+
+}
+
+.l1 {
+    width: 120px;
+    height: 120px;
+    background: linear-gradient(180deg, rgba(110, 120, 228, 0.46) 0%, rgba(238, 128, 210, 0.43) 100%);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+}
+
+.tt {
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 14px;
+    color: #000000;
+}

@@ -1,0 +1,221 @@
+.hall {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+
+}
+
+.conts {
+    /* margin-top: 30px; */
+    font-family: 'Kavoon';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+    
+}
+
+.semi1 {
+    width: 342px;
+    height: 150px;
+    /* background: linear-gradient(180deg, rgba(110, 120, 228, 0.46) 0%, rgba(238, 128, 210, 0.43) 100%); */
+    background: linear-gradient(152.97deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+    border-radius: 16px;
+    display: flex;
+    /* flex-direction: column; */
+    /* justify-content: flex-start; */
+    gap: 20px;
+
+
+}
+
+.conn {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.semi2{
+    width: 342px;
+    height: 155px;
+    /* background: linear-gradient(180deg, rgba(110, 120, 228, 0.46) 0%, rgba(238, 128, 210, 0.43) 100%); */
+    background: linear-gradient(152.97deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+    border-radius: 16px;
+    display: flex;
+    /* flex-direction: column; */
+    /* justify-content: flex-start; */
+    gap: 20px;
+
+}
+.conn2{
+
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    gap: 5px;
+    flex-wrap: wrap;
+
+}
+
+.text1 {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.it {
+    margin-left: 10px;
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+    color: #000000;
+}
+.it1{
+    width: 100%;
+    margin-left: 10px;
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+    color: #000000;
+
+}
+.it2{
+    width: 100%;
+    height: 50px;
+    margin-left: 10px;
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+    color: #000000;
+}
+
+.bttn {
+    margin-left: 10px;
+    width: 100px;
+    height: 30px;
+    background: #8359E3;
+    box-shadow: 0px 30px 30px rgba(69, 42, 124, 0.15);
+    backdrop-filter: blur(30px);
+    border-radius: 30px;
+}
+
+.btns {
+    font-family: 'Abhaya Libre SemiBold';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    margin-top: 6px;
+
+}
+
+.summa {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+
+
+}
+.summa1{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+    flex-wrap: wrap;    
+    margin-left: 40px;
+
+}
+.summa2{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+    flex-wrap: wrap;    
+    margin-left: 30px;
+
+}
+
+.summa3{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+    flex-wrap: wrap;    
+
+
+}
+.rnd {
+    background-image: url('../images/Ellipse\ 117pras.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70px;
+    width: 70px;
+}
+.rnd2{
+    background-image: url('../images/Ellipse\ 117pras.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70px;
+    width: 70px;
+    margin-right: 30px;
+    /* margin-bottom: 20px; */
+}
+
+
+.ITBTN {
+    margin-top: 20px;
+    font-family: 'Federant';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    color: #000000;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.ITBTN1{
+    margin-top: 20px;
+    font-family: 'Federant';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 31px;
+text-align: center;
+letter-spacing: 0.2em;
+color: #000000;
+}
+
+
+
